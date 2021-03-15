@@ -41,12 +41,13 @@
 Начало жизни в мире php(читать ссылки в порядке очередности):
 
 1. http://www.phptherightway.com/ или http://getjump.github.io/ru-php-the-right-way/
-2. https://github.com/phptodayorg/php-must-watch
-3. https://git-scm.com/book/ru/v1 или https://git-scm.com/book/en/v1
-4. https://habrahabr.ru/post/136110/
-5. https://github.com/arturpanteleev/webdev-map
-6. https://github.com/jupeter/clean-code-php или https://github.com/peter-gribanov/clean-code-php
-7. https://github.com/hellerve/programming-talks
+2. https://ru.code-basics.com/languages/php
+3. https://github.com/phptodayorg/php-must-watch
+4. https://git-scm.com/book/ru/v1 или https://git-scm.com/book/en/v1
+5. https://habrahabr.ru/post/136110/
+6. https://github.com/arturpanteleev/webdev-map
+7. https://github.com/jupeter/clean-code-php или https://github.com/peter-gribanov/clean-code-php
+8. https://github.com/hellerve/programming-talks
 
 Очень и очень рекомендуется иметь профиль https://github.com
 
