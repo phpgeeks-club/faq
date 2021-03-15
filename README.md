@@ -36,7 +36,8 @@
 3. @ExileeD
 4. @RALMAZ
 5. @doktorgradus
-6. 
+6. @ogurchinskiy
+7. @SerafimArts
 
 Начало жизни в мире php(читать ссылки в порядке очередности):
 
