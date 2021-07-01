@@ -76,7 +76,7 @@
 ================
 В этом разделе собраны ресурсы, которые помогут тебе быстрее освоится в мире php и веб-разработки в целом. Есть информация как для начинающих так и для более опытных программистов.
 
-1. https://map.hexlet.io/stacks/php - Платный ресурс, но в бесплатном режиме можно увидеть карту обучения и все темы  которые нужно изучить. 
+1. https://map.hexlet.io/stacks/php - Платный ресурс, но в бесплатном режиме можно увидеть карту обучения и все темы которые нужно изучить. 
 2. http://ruhighload.com/ - Рассказывают просто о сложных вещах.
 3. https://www.sitepoint.com/php/ - Статьи о РНР и не только, уровень читателя - разный.
 4. http://www.phpdeveloper.org/ - Подборка новостей из мира РНР.
@@ -127,10 +127,12 @@
 ### Frameworks
 #### Laravel
 * [Laracast](https://laracasts.com/)
+* [Best practices](https://github.com/alexeymezenin/laravel-best-practices/blob/master/russian.md)
 
 
 #### Symfony
 * [Symfony](https://symfonycasts.com/)
+* [Best practices](https://symfony.com/doc/current/best_practices.html)
 
 ### Инструменты
 * PHPUnit
