@@ -44,13 +44,14 @@
 1. http://www.phptherightway.com/ или http://getjump.github.io/ru-php-the-right-way/
 2. https://ru.code-basics.com/languages/php
 3. [Паттерны проектирования PHP](https://github.com/avlyalin/php-design-patterns)
-4. https://github.com/phptodayorg/php-must-watch
-5. https://git-scm.com/book/ru/v1 или https://git-scm.com/book/en/v1
-6. https://habrahabr.ru/post/136110/
-7. https://github.com/arturpanteleev/webdev-map
-8. https://roadmap.sh/backend
-9. https://github.com/jupeter/clean-code-php или https://github.com/peter-gribanov/clean-code-php
-10. https://github.com/hellerve/programming-talks
+4. https://github.com/roistat/php-code-conventions
+5. https://github.com/phptodayorg/php-must-watch
+6. https://git-scm.com/book/ru/v1 или https://git-scm.com/book/en/v1
+7. https://habrahabr.ru/post/136110/
+8. https://github.com/arturpanteleev/webdev-map
+9. https://roadmap.sh/backend
+10. https://github.com/jupeter/clean-code-php или https://github.com/peter-gribanov/clean-code-php
+11. https://github.com/hellerve/programming-talks
 
 Очень и очень рекомендуется иметь профиль https://github.com
 
