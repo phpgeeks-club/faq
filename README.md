@@ -52,6 +52,7 @@
 9. https://roadmap.sh/backend
 10. https://github.com/jupeter/clean-code-php или https://github.com/peter-gribanov/clean-code-php
 11. https://github.com/hellerve/programming-talks
+12. https://habr.com/ru/companies/skyeng/articles/666626/
 
 Очень и очень рекомендуется иметь профиль https://github.com
 
