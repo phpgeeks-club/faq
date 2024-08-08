@@ -94,7 +94,9 @@
 1. https://php-up.com/lesson
 ### Книги
 #### Основы
-1. [Котеров. PHP7 в подлиннике](https://t.me/phpGeeksJunior/16247)
+1. [Котеров, PHP8 в подлнникике](https://t.me/phpGeeksJunior/604605)
+2. [Котеров. PHP7 в подлиннике (Устарело)](https://t.me/phpGeeksJunior/16247)
+
 
 
 #### Расширенное
