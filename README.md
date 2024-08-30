@@ -28,30 +28,19 @@
 9. Не надо писать "Кто работал с ...", задавайте сразу вопрос.
 10. Не нужно задавать вопросы "Как взломать, как украсть". Это не чат для юных хакеров
 
-Модераторы
-----------
-
-1. @oneerror
-2. @arturpanteleev
-3. @ExileeD
-4. @RALMAZ
-5. @doktorgradus
-6. @ogurchinskiy
-7. @SerafimArts
-
 Начало жизни в мире php(читать ссылки в порядке очередности):
 
-1. http://www.phptherightway.com/ или http://getjump.github.io/ru-php-the-right-way/
+1. http://www.phptherightway.com/ 🇺🇸  или http://getjump.github.io/ru-php-the-right-way/
 2. https://ru.code-basics.com/languages/php
 3. [Паттерны проектирования PHP](https://github.com/avlyalin/php-design-patterns)
 4. https://github.com/roistat/php-code-conventions
-5. https://github.com/phptodayorg/php-must-watch
+5. https://github.com/phptodayorg/php-must-watch 🇺🇸 
 6. https://git-scm.com/book/ru/v1 или https://git-scm.com/book/en/v1
 7. https://habrahabr.ru/post/136110/
 8. https://github.com/arturpanteleev/webdev-map
-9. https://roadmap.sh/backend
+9. https://roadmap.sh/backend 🇺🇸 
 10. https://github.com/jupeter/clean-code-php или https://github.com/peter-gribanov/clean-code-php
-11. https://github.com/hellerve/programming-talks
+11. https://github.com/hellerve/programming-talks 🇺🇸 
 12. https://habr.com/ru/companies/skyeng/articles/666626/
 
 Очень и очень рекомендуется иметь профиль https://github.com
@@ -59,10 +48,11 @@
 Ну, поехали
 ===========
 
-## Руководство по написанию кода
+## Руководство по написанию кода 🇺🇸 
 1. Basic Coding Standard: http://www.php-fig.org/psr/psr-1/ 
 2. Coding Style Guide: http://www.php-fig.org/psr/psr-2/
 3. Extended Coding Style Guide: https://www.php-fig.org/psr/psr-12/
+4. PER Coding Style 2.0  https://www.php-fig.org/per/coding-style/
 
 Зависимости и composer
 ======================
@@ -72,7 +62,7 @@
 Редакторы и IDE
 ===============
 
-Лучшим IDE для php, в котором много инструментов из коробки, является [phpstorm](https://www.jetbrains.com/phpstorm/). Новичкам строго рекомендуется. А в остальном, любой редактор(vim, emacs, atom, sublime text and etc.) можно настроить для удобной работы с php.
+Лучшим IDE для php, в котором много инструментов из коробки, является [phpstorm](https://www.jetbrains.com/phpstorm/). Новичкам строго рекомендуется. На втором месте советуем [VS Code](https://code.visualstudio.com/). А в остальном, любой редактор(vim, emacs, atom, sublime text and etc.) можно настроить для удобной работы с php.
 
 Полезные ресурсы
 ================
@@ -81,12 +71,12 @@
 
 1. https://map.hexlet.io/stacks/php - Платный ресурс, но в бесплатном режиме можно увидеть карту обучения и все темы которые нужно изучить. 
 2. http://ruhighload.com/ - Рассказывают просто о сложных вещах.
-3. https://www.sitepoint.com/php/ - Статьи о РНР и не только, уровень читателя - разный.
-4. http://www.phpdeveloper.org/ - Подборка новостей из мира РНР.
-5. http://stackoverflow.com/documentation/php/topics - новый проект от SO(раздел о php)
+3. https://www.sitepoint.com/php/ 🇺🇸 - Статьи о РНР и не только, уровень читателя - разный.
+4. http://www.phpdeveloper.org/ 🇺🇸 - Подборка новостей из мира РНР.
+5. http://stackoverflow.com/documentation/php/topics 🇺🇸 - новый проект от SO(раздел о php)
 6. https://arturpanteleev.gitbook.io/phpinterview/ - Что нужно знать для собеседования
-7. https://github.com/index0h/php-conventions - Рекомендации по написанию PHP кода
-8. http://old.code.mu/books/php - азы php
+7. https://github.com/index0h/php-conventions 🇺🇸 - Рекомендации по написанию PHP кода
+8. http://old.code.mu/books/php 🇺🇸 - азы php
 
 ## С чего начать
 
@@ -131,18 +121,21 @@
 
 ### Frameworks
 #### Laravel
-* [Laracast](https://laracasts.com/)
+* [Laracast](https://laracasts.com/) 🇺🇸
+* [Книга "Архитектура сложных веб-приложений. С примерами на Laravel"](https://github.com/adelf/acwa_book_ru)
 * [Best practices](https://github.com/alexeymezenin/laravel-best-practices/blob/master/russian.md)
 
 
 #### Symfony
-* [Symfony](https://symfonycasts.com/)
-* [Best practices](https://symfony.com/doc/current/best_practices.html)
+* [Symfony](https://symfonycasts.com/) 🇺🇸
+* [Best practices](https://symfony.com/doc/current/best_practices.html) 🇺🇸
 
 ### Инструменты
 * PHPUnit
 * Docker, Docker compose
 * Любая СУБД (MySQL, Postgreql)
-
+* Фреймворки (Laravel, Symfony, ~~Yii3 (Ждем релиза)~~)
+* NoSQL СУБД (Redis)
+* PHPStan, Psalm
 
 Взято с phppro7
