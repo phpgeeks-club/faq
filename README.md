@@ -39,7 +39,7 @@
 7. https://habrahabr.ru/post/136110/
 8. https://github.com/arturpanteleev/webdev-map
 9. https://roadmap.sh/backend 🇺🇸 
-10. https://github.com/jupeter/clean-code-php или https://github.com/peter-gribanov/clean-code-php
+10. https://github.com/jupeter/clean-code-php 🇺🇸 или https://github.com/peter-gribanov/clean-code-php
 11. https://github.com/hellerve/programming-talks 🇺🇸 
 12. https://habr.com/ru/companies/skyeng/articles/666626/
 
@@ -132,6 +132,8 @@
 
 ### Инструменты
 * PHPUnit
+  * https://habr.com/ru/companies/vk/articles/485124 - Чистые тесты на php
+  * https://habr.com/ru/articles/713454/ - Пишем тесты для Symfony
 * Docker, Docker compose
 * Любая СУБД (MySQL, Postgreql)
 * Фреймворки (Laravel, Symfony, ~~Yii3 (Ждем релиза)~~)
