@@ -77,6 +77,7 @@
 6. https://arturpanteleev.gitbook.io/phpinterview/ - Что нужно знать для собеседования
 7. https://github.com/index0h/php-conventions 🇺🇸 - Рекомендации по написанию PHP кода
 8. http://old.code.mu/books/php 🇺🇸 - азы php
+9. https://gist.github.com/fesor/76d39b19b18f7103a7c058301dc6a8fe - Пример структуры проекта
 
 ## С чего начать
 
